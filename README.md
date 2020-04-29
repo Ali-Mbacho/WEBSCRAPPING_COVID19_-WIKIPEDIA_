@@ -3,4 +3,3 @@ Web scraping is a form of copying in which specific data is gathered and copied 
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ali-Mbacho/WEBSCRAPPING_COVID19_-WIKIPEDIA_/master)
